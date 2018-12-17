@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sol1", "Sol1\Sol1.csproj", "{85B1A86A-6883-4167-9410-3B1827C30CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseParcel", "ParseParcel\ParseParcel.csproj", "{ACF3D55A-80B6-481D-8EAF-6A88B5B47A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85B1A86A-6883-4167-9410-3B1827C30CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B1A86A-6883-4167-9410-3B1827C30CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B1A86A-6883-4167-9410-3B1827C30CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B1A86A-6883-4167-9410-3B1827C30CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF3D55A-80B6-481D-8EAF-6A88B5B47A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF3D55A-80B6-481D-8EAF-6A88B5B47A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF3D55A-80B6-481D-8EAF-6A88B5B47A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF3D55A-80B6-481D-8EAF-6A88B5B47A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
